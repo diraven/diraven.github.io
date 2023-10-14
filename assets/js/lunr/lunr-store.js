@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Малювання",
-        "excerpt":"Цікаві тематичні ютуб-канали:      ProkoTV   DrawlikeaSir   YTartschool   ALPHONSODUNN   Портретура:                                      [How to Easily Draw Heads           Understanding the Loomis Method](https://www.youtube.com/watch?v=OUODCm4SMN8)                           How To Draw Heads Using The Loomis Method                                   [How to “See” the Loomis Head in a Reference           Step by Step Tutorial](https://www.youtube.com/watch?v=5HI6ww-e_UY)                          ","categories": [],
+        "excerpt":"Цікаві тематичні ютуб-канали:      ProkoTV   DrawlikeaSir   YTartschool   ALPHONSODUNN   Портретура:                                      [How to Easily Draw Heads           Understanding the Loomis Method](https://www.youtube.com/watch?v=OUODCm4SMN8)                           How To Draw Heads Using The Loomis Method                                   [How to “See” the Loomis Head in a Reference           Step by Step Tutorial](https://www.youtube.com/watch?v=5HI6ww-e_UY)                           3-вимірна модель голови, обрубовка  ","categories": [],
         "tags": ["творчість","чорновик"],
         "url": "/%D0%BC%D0%B0%D0%BB%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/",
         "teaser": null
