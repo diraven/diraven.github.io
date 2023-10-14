@@ -5,6 +5,12 @@ var store = [{
         "url": "/%D1%86%D0%B5%D1%82%D1%82%D0%B5%D0%BB%D1%8C%D0%BA%D0%B0%D1%81%D1%82%D0%B5%D0%BD/",
         "teaser": null
       },{
+        "title": "Кізомба",
+        "excerpt":"Канали YouTube:      Salsaventura   Joao &amp; Vera Dance   Messina Dance Company  ","categories": [],
+        "tags": ["творчість","чорновик"],
+        "url": "/%D0%BA%D1%96%D0%B7%D0%BE%D0%BC%D0%B1%D0%B0/",
+        "teaser": null
+      },{
         "title": "Малювання",
         "excerpt":"Цікаві тематичні ютуб-канали:      ProkoTV   DrawlikeaSir   YTartschool   ALPHONSODUNN  ","categories": [],
         "tags": ["творчість","чорновик"],
