@@ -58,4 +58,10 @@ var store = [{
         "tags": ["здоров'я","чорновик"],
         "url": "/%D0%B7%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9-%D0%BE%D0%B4%D1%8F%D0%B3/",
         "teaser": null
+      },{
+        "title": "Смаколики",
+        "excerpt":"   Лазанья   Суп з фрикадельками  ","categories": [],
+        "tags": ["кулінарія"],
+        "url": "/%D1%81%D0%BC%D0%B0%D0%BA%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8/",
+        "teaser": null
       }]
